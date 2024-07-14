@@ -33,7 +33,7 @@ const Projects = () => {
             title: "PSN Store",
             tech: [SiAngular, SiHtml5, SiCss3],
             link: "https://psn-store-one.vercel.app/",
-            cover: "/image.png",
+            cover: "/project-5.png",
             background: "bg-indigo-500",
         },
     ]
